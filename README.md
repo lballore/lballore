@@ -1,4 +1,9 @@
 <p align="center">
+    <img align="center" src="./resources/banner-picture.jpg" alt="Banner picture" />
+</p>
+
+
+<p align="center">
     <h1 align="center">Welcome to my repos!</h1>
     <h2 align="center">Enter freely, go safely, and leave something of the happiness you bring!</h3>
     <h3 align="center"><i>I am <a target="_blank" href="https://www.lucaballore.com">Luca</a>, and I bid you welcome to my GitHub account</i></h2>

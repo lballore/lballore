@@ -25,7 +25,7 @@
 </p>
 
 - :house_with_garden: Sardinian born software engineer, with 🇮🇹 and 🇸🇪 passport
-- :computer: Machine Learning Engineer :man_technologist: at Schibsted, fairily responsible parent
+- :computer: Software Engineer :man_technologist: at EA DICE, fairily responsible parent
 - :rocket: proud metalhead, football maniac and gamer
 - :books: interested in history and astrophysics
 

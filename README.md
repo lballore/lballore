@@ -13,7 +13,7 @@
         <a href="https://www.linkedin.com/in/lucaballore/" target="_blank"><img align="center" alt="Luca Ballore | LinkedIn" width="22px" src="./resources/linkedin.svg" /></a>
         <a href="https://twitter.com/LBallore" target="_blank"><img align="center" alt="Luca Ballore | Twitter" width="22px" src="./resources/twitter.svg" /></a>
         <a href="https://blog.lucaballore.com" target="_blank"><img align="center" alt="Luca Ballore | Medium" width="22px" src="./resources/medium.svg" /></a>
-        <a href="https://github.com/lucone83" target="_blank"><img align="center" alt="Luca Ballore | GitHub" width="22px" src="./resources/github.svg" /></a>
+        <a href="https://github.com/lballore" target="_blank"><img align="center" alt="Luca Ballore | GitHub" width="22px" src="./resources/github.svg" /></a>
     </p>
 </p>
 
@@ -34,8 +34,8 @@
 
 <p align="center">
     <h1 align="left">📈 My GitHub stats</h1>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucone83&show_icons=true&theme=dark&count_private=true&line_height=33" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucone83&theme=dark&hide=jupyter%20notebook&count_private=true&line_height=40">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lballore&show_icons=true&theme=dark&count_private=true&line_height=33" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lballore&theme=dark&hide=jupyter%20notebook&count_private=true&line_height=40">
 </p>
 
 <br />
